@@ -1,0 +1,215 @@
+            <div > <!-- A 'color' class will be added, based on color value, blue placeholder -->
+        <div id="slider-wrapper" class="slider">
+		<div class="flexslider storyslider">
+			<ul class="slides">
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                               		<div class="theimage">
+                                         <img src="http://www.formationstone.com/wp-content/uploads/behind_the_stone-granite.jpg" />
+                                           
+                              		</div>
+                              </div>
+                               <div class="col-xs-12 col-sm-6">
+                               		<div class="thestory">
+                                    	                                            <h4>Granite</h4>
+                                                                                                                             <div class="desc">
+                                                An igneous rock of volcanic origin, granite is one of the hardest natural stones. During its formation, mineral gases and liquids create crystalline formations, giving it a stunning array of colors.                                            </div>
+                                                                                
+                              		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                               		<div class="theimage">
+                                         <img src="http://www.formationstone.com/wp-content/uploads/behind_the_stone-marble.jpg" />
+                                           
+                              		</div>
+                              </div>
+                               <div class="col-xs-12 col-sm-6">
+                               		<div class="thestory">
+                                    	                                            <h4>Marble</h4>
+                                                                                                                             <div class="desc">
+                                                Marble is a metamorphic rock found in mountains around the world. It comprises recrystallized minerals and swirls of hidden impurities. These beautiful natural variances give marble its signature warmth and sophistication.                                            </div>
+                                                                                
+                              		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                               		<div class="theimage">
+                                         <img src="http://www.formationstone.com/wp-content/uploads/behind_the_stone-travertine.jpg" />
+                                           
+                              		</div>
+                              </div>
+                               <div class="col-xs-12 col-sm-6">
+                               		<div class="thestory">
+                                    	                                            <h4>Travertine</h4>
+                                                                                                                             <div class="desc">
+                                                Travertine is a porous calcareous rock that forms when natural mineral water percolates through limestone and recrystallizes. Its earthy texture and warm hues give it a distressed but modern look.                                            </div>
+                                                                                
+                              		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                               		<div class="theimage">
+                                         <img src="http://www.formationstone.com/wp-content/uploads/behind_the_stone-limestone.jpg" />
+                                           
+                              		</div>
+                              </div>
+                               <div class="col-xs-12 col-sm-6">
+                               		<div class="thestory">
+                                    	                                            <h4>Limestone</h4>
+                                                                                                                             <div class="desc">
+                                                Formed from the bonding of mineral fragments and organic materials in the earth’s bedrock, Limestone mainly comprises calcium carbonate, which gives it its signature array of natural colors and streaking.                                            </div>
+                                                                                
+                              		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                               		<div class="theimage">
+                                         <img src="http://www.formationstone.com/wp-content/uploads/behind_the_stone-quartzite.jpg" />
+                                           
+                              		</div>
+                              </div>
+                               <div class="col-xs-12 col-sm-6">
+                               		<div class="thestory">
+                                    	                                            <h4>Quartzite</h4>
+                                                                                                                             <div class="desc">
+                                                Quartzite is a metamorphic rock formed from sandstone. The extreme heat and pressurization in its formation leads to the recrystallization of minerals, making extremely strong and flecked with natural patterning.                                            </div>
+                                                                                
+                              		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                               		<div class="theimage">
+                                         <img src="http://www.formationstone.com/wp-content/uploads/behind_the_stone-quartz.jpg" />
+                                           
+                              		</div>
+                              </div>
+                               <div class="col-xs-12 col-sm-6">
+                               		<div class="thestory">
+                                    	                                            <h4>Quartz</h4>
+                                                                                                                             <div class="desc">
+                                                Manufactured from one of the hardest crystalline minerals, quartz is renowned for its durability and color. Formation is proud to be the only stocking distributor of Caeserstone® quartz in the Coachella Valley.                                             </div>
+                                                                                
+                              		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                               		<div class="theimage">
+                                         <img src="http://www.formationstone.com/wp-content/uploads/behind_the_stone-porcelain.jpg" />
+                                           
+                              		</div>
+                              </div>
+                               <div class="col-xs-12 col-sm-6">
+                               		<div class="thestory">
+                                    	                                            <h4>Porcelain</h4>
+                                                                                                                             <div class="desc">
+                                                Fired at higher temperatures than ceramic tile, porcelain tile comprises up to fifty percent feldspar, making it denser and less porous than other tile. It is stronger than granite and resists staining.                                            </div>
+                                                                                
+                              		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                        <div class="col-xs-12 col-sm-6">
+                               		<div class="theimage">
+                                         <img src="http://www.formationstone.com/wp-content/uploads/behind_the_stone-vetrazzo.jpg" />
+                                           
+                              		</div>
+                              </div>
+                               <div class="col-xs-12 col-sm-6">
+                               		<div class="thestory">
+                                    	                                            <h4>Vetrazzo®</h4>
+                                                                                                                             <div class="desc">
+                                                Vetrazzo® is a unique product comprising concrete and recycled glass. From architectural and art glass to beer bottles and jars, each mix is a work of art, with a story told in every surface.                                            </div>
+                                                                                
+                              		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+			            <div > <!-- A 'color' class will be added, based on color value, blue placeholder -->
+        <div id="slider-wrapper" class="slider">
+		<div class="flexslider slidetestomonial">
+			<ul class="slides">
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                               <div class="col-sm-12">
+                               		<div class="cap-content">
+                                                                                     <div class="caption">
+                                                &#8220;Formation makes sure the material for my project shows up on time and they stay within my budget. My clients love how clean and organized their slab yard is. They have a great selection of everything you need to complete your project.&#8221;                                            </div>
+                                                                                                                            <h4>Jerry Santucci, Santucci Builders</h4>
+                                                                      		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+							<li class="slide-img slide-content-wrap " >
+                	<div class="container  ">
+                        <div class="row">
+                               <div class="col-sm-12">
+                               		<div class="cap-content">
+                                                                                     <div class="caption">
+                                                &#8220;As an interior designer in the Coachella Valley, I love having everything I need for my projects all in one place. Formation has by far the best selection of unique and exotic slabs that you just can’t find anywhere else.&#8221;                                            </div>
+                                                                                                                            <h4>Kim Bradley, Kim Bradley Design Group</h4>
+                                                                      		</div>
+                              </div>
+                        </div><!-- row -->
+                      </div><!-- container -->
+				</li>
+
+                
+			{"id":6,"date":"2015-11-13T04:11:23","date_gmt":"2015-11-13T04:11:23","guid":{"rendered":"http:\/\/162.243.84.134\/?page_id=6"},"modified":"2020-02-13T18:16:31","modified_gmt":"2020-02-13T18:16:31","slug":"home","status":"publish","type":"page","link":"http:\/\/www.formationstone.com\/","title":{"rendered":"Home"},"content":{"rendered":"    \n    <section class=\"cs-section background-grey Ignyte_subNavItem\" id='about' >\n     <div class=\"subnavtitle\" style=\"display:none;\">Who We Are<\/div>\t<div class=\"container\">\n\t\t<h2>Who We Are<\/h2>\n        <h3>OUR PASSION FOR EXOTIC STONE AND SURFACES RUNS DEEP<\/h3>        <div class=\"row\">\n        \t<div class=\"row\"><div class=\"col-xs-12\">The design of your next stone or tile project is already well underway. It\u2019s a process that began millions of years ago, miles beneath the surface of the earth. We take over where nature leaves off, importing the finest natural stone and porcelain tile from around the globe and continuing its millennia-long process of formation. Like the origins of the products we offer, our passion for architecture and design runs deep.<\/div><\/div>\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 contactlead\"><a href=\"#contact\">Unearth your next design today. Contact us.<\/a><\/div>\r\n<\/div>\n\n            \n        <\/div>\n    <\/div>\n\t<\/section>\n            \n\t\r\n\r\n    \n    <section class=\"cs-section white Ignyte_subNavItem\" id='products' >\n     <div class=\"subnavtitle\" style=\"display:none;\">Products<\/div>\t<div class=\"container\">\n\t\t<h2>What We Offer<\/h2>\n        <h3>Our Products<\/h3>        <div class=\"row\">\n        \t<span>Contemporary, rustic, elegant, or whimsical\u2014whatever your artistic vision may be, we have the medium to bring it to life. We carry only the finest natural stone and tile lines, each with a character all its own.<\/span>\n\n<div id=\"openingproducts_container\" class=\"image_list_container image_list_horizontal\">\n  <div id=\"openingproducts\" class=\"image_list_wrapper image_list_center\"><a href=\"http:\/\/www.formationstone.com\/products\/#granite\"><div class=\"thethumb rollover\"><img src=\"http:\/\/www.formationstone.com\/wp-content\/gallery\/Stones\/thumbs\/thumbs_AJ-BROWN.JPG\" alt=\"Granite\"  border=\"0\" \/><div>Granite<\/div><\/div><\/a><a href=\"http:\/\/www.formationstone.com\/products\/#marble\"><div class=\"thethumb rollover\"><img src=\"http:\/\/www.formationstone.com\/wp-content\/gallery\/Stones\/thumbs\/thumbs_GREY-ORIBICO.JPG\" alt=\"Marble\"  border=\"0\" \/><div>Marble<\/div><\/div><\/a><a href=\"http:\/\/www.formationstone.com\/products\/#natural-stone\"><div class=\"thethumb rollover\"><img src=\"http:\/\/www.formationstone.com\/wp-content\/gallery\/Stones\/thumbs\/thumbs_QUARTZITE-CIELO-LEATHER.jpg\" alt=\"Quartzite&lt;br\/&gt;&amp; Natural Stone\"  border=\"0\" \/><div>Quartzite<br\/>& Natural Stone<\/div><\/div><\/a><a href=\"http:\/\/www.formationstone.com\/products\/#caesarstone\"><div class=\"thethumb rollover\"><img src=\"http:\/\/www.formationstone.com\/wp-content\/gallery\/Stones\/thumbs\/thumbs_Coastal-Grey.jpg\" alt=\"Caesarstone\"  border=\"0\" \/><div>Caesarstone<\/div><\/div><\/a><a href=\"http:\/\/www.formationstone.com\/products\/#limestone\"><div class=\"thethumb rollover\"><img src=\"http:\/\/www.formationstone.com\/wp-content\/gallery\/Stones\/thumbs\/thumbs_SILVER-ONYX.jpg\" alt=\"Limestone,&lt;br\/&gt;Travertine &amp; Onyx\"  border=\"0\" \/><div>Limestone,<br\/>Travertine & Onyx<\/div><\/div><\/a><a href=\"http:\/\/www.formationstone.com\/products\/#sapienstone\"><div class=\"thethumb rollover\"><img src=\"http:\/\/www.formationstone.com\/wp-content\/gallery\/Stones\/thumbs\/thumbs_Iron-Grey-new.jpg\" alt=\"Sapienstone\"  border=\"0\" \/><div>Sapienstone<\/div><\/div><\/a><a href=\"http:\/\/www.formationstone.com\/products\/#vetrazzo\"><div class=\"thethumb rollover\"><img src=\"http:\/\/www.formationstone.com\/wp-content\/gallery\/Stones\/thumbs\/thumbs_Bistro-Green.jpg\" alt=\"Vetrazzo\"  border=\"0\" \/><div>Vetrazzo<\/div><\/div><\/a><a href=\"http:\/\/www.formationstone.com\/products\/#tiles-and-mosaics\"><div class=\"thethumb rollover\"><img src=\"http:\/\/www.formationstone.com\/wp-content\/gallery\/Stones\/thumbs\/thumbs_Ken-Mason-Tile.jpg\" alt=\"Tiles &amp; Mosaics\"  border=\"0\" \/><div>Tiles & Mosaics<\/div><\/div><\/a>\n  <\/div>\n<\/div>\n<a class=\"button\" href=\"\/products\">All Products<\/a>\n\n            \n        <\/div>\n    <\/div>\n\t<\/section>\n            \n\t\r\n<h3 class=\"servicestitle\">THE GRIT OF A SLAB YARD,\r\nTHE FINERIES OF A SHOWROOM<\/h3>\r\n    \n    <section class=\"cs-section white Ignyte_subNavItem\" id='services' >\n     <div class=\"subnavtitle\" style=\"display:none;\">Services<\/div>\t<div class=\"container\">\n\t\t<h2><\/h2>\n                <div class=\"row\">\n        \t<div class=\"row\">\r\n<div class=\"col-xs-12\">\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<div class=\"wrap\">\r\n<div class=\"icon\"><img src=\"\/wp-content\/uploads\/icon-setting.svg\"\/><\/div>\r\n<h4>Unique Setting<\/h4>\r\nIn addition to a sprawling slab yard stocked with the finest natural stone, we offer a unique retail setting in which to consult with our specialists about your design and architecture needs.\r\n<\/div><\/div>\r\n\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<div class=\"wrap\">\r\n<div class=\"icon\"><img src=\"\/wp-content\/uploads\/icon-inventory.svg\"\/><\/div>\r\n<h4>Unrivaled Inventory<\/h4>\r\nDrawing on over 40 years of relationships with quarries around the world, we import exotic and specialty natural stone from the hills of Brazil, Turkey, Italy, France, and more.\r\n<\/div><\/div>\r\n<\/div>\r\n<\/div>\r\n\r\n<div class=\"row\">\r\n<div class=\"col-xs-12\">\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<div class=\"wrap\">\r\n<div class=\"icon\"><img src=\"\/wp-content\/uploads\/icon-team.svg\"\/><\/div>\r\n<h4>An Expert Team<\/h4>\r\nThe Formation team prides itself on being experts in our trade. Our highly skilled staff knows everything about natural stone and surfaces, and is eager to assist with your design.\r\n<\/div><\/div>\r\n\r\n<div class=\"col-xs-12 col-sm-6\">\r\n<div class=\"wrap\">\r\n<div class=\"icon\"><img src=\"\/wp-content\/uploads\/icon-service.svg\"\/><\/div>\r\n<h4>A History of Service<\/h4>\r\nWe\u2019ve been serving California and Oregon for over four decades. Our loyal clientele is like family\u2014a family we hope you\u2019ll join! If we don\u2019t have the product you need, we will find it.\r\n<\/div><\/div>\r\n<\/div>\r\n<\/div>\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 contactlead\"><a href=\"#contact\">Visit us today to see for yourself!<\/a><\/div>\r\n<\/div>\n\n            \n        <\/div>\n    <\/div>\n\t<\/section>\n            \n\t\r\n<div class=\"locimages\"><img src=\"\/wp-content\/uploads\/formationslab-location-v1.jpg\"><img class=\"second\" src=\"\/wp-content\/uploads\/formationslab-showroom-v2.jpg\"><img src=\"\/wp-content\/uploads\/formationslab-location-v3.jpg\"><\/div>\r\n    \n    <section class=\"cs-section background-grey Ignyte_subNavItem\" id='themap' >\n     <div class=\"subnavtitle\" style=\"display:none;\">What We Offer<\/div>\t<div class=\"container\">\n\t\t<h2>What We Offer<\/h2>\n        <h3>DISCOVERING DESIGN IN\r\nEVERY CORNER OF THE GLOBE<\/h3>        <div class=\"row\">\n        \t<div class=\"col-xs-12\">\r\nFormation offers over 1,000 different natural stone and tile products from locations around the world.\r\n<div class=\"mapanim\"><div><img src=\"\/wp-content\/uploads\/map-dots.svg\"\/><img src=\"\/wp-content\/uploads\/map-base.svg\"\/><\/div><\/div>\r\n<\/div>\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 contactlead\"><a href=\"#contact\">Bring a world of design to your next project. Contact us today.<\/a><\/div>\r\n<\/div>\n\n            \n        <\/div>\n    <\/div>\n\t<\/section>\n            \n\t\r\n\r\n    \n    <section class=\"cs-section white Ignyte_subNavItem\" id='story' >\n     <div class=\"subnavtitle\" style=\"display:none;\">Story<\/div>\t<div class=\"container\">\n\t\t<h2><\/h2>\n        <h3>THE STORY BEHIND THE STONE<\/h3>        <div class=\"row\">\n        \t\t\t\t\t<li class=\"slide-img slide-content-wrap \" >\n                \t<div class=\"container  \">\n                        <div class=\"row\">\n                        <div class=\"col-xs-12 col-sm-6\">\n                               \t\t<div class=\"theimage\">\n                                         <img src=\"http:\/\/www.formationstone.com\/wp-content\/uploads\/behind_the_stone-mosaic.jpg\" \/>\n                                           \n                              \t\t<\/div>\n                              <\/div>\n                               <div class=\"col-xs-12 col-sm-6\">\n                               \t\t<div class=\"thestory\">\n                                    \t                                            <h4>Specialty &#038; Mosaic<\/h4>\n                                                                                                                             <div class=\"desc\">\n                                                In addition to our line of traditional stone and tile, we offer a wide range of specialty and mosaic products, whose exotic one-of-a-kind beauty you won\u2019t find anywhere else.                                            <\/div>\n                                                                                \n                              \t\t<\/div>\n                              <\/div>\n                        <\/div><!-- row -->\n                      <\/div><!-- container -->\n\t\t\t\t<\/li>\n\n                \n\t\t\t\t\t\t<\/ul>\n\t\t<\/div><!-- .flexslider -->\n\t\t<script type=\"text\/javascript\">\n            jQuery(window).load(function(){\n              jQuery('.storyslider').flexslider({\n                animation: \"slide\",\n                useCSS: false,\n                controlNav: false,\n                directionNav: true,\n\t\t\t\tcontrolsContainer: '.dir-nav',\n                start: function(slider){\n                  jQuery('body').removeClass('loading');\n                }\n              });\n            });\n        <\/script>\n    <\/div><!-- .slider -->\n    <\/div>\n    \n\n\n            \n        <\/div>\n    <\/div>\n\t<\/section>\n            \n\t\r\n\r\n    \n    <section class=\"cs-section background-lightgrey Ignyte_subNavItem\" id='clients' >\n     <div class=\"subnavtitle\" style=\"display:none;\">Who We Serve<\/div>\t<div class=\"container\">\n\t\t<h2>Who We Serve<\/h2>\n        <h3>WE MEET THE UNIQUE NEEDS\r\nOF UNIQUE CUSTOMERS<\/h3>        <div class=\"row\">\n        \t<div class=\"row\">\r\n<div class=\"col-xs-12 col-sm-4\">\r\n<img src=\"\/wp-content\/uploads\/serve-photo-designers.png\"\/>\r\n<h4>Designer & Architects<\/h4>\r\n<div class=\"wrap\">Looking to impress your client with a jaw-dropping material? Our selection of exotic natural stone and tile never disappoints.\r\n<\/div><\/div>\r\n\r\n<div class=\"col-xs-12 col-sm-4\">\r\n<img src=\"\/wp-content\/uploads\/serve-photo-homeowners.png\"\/>\r\n<h4>Homeowners<\/h4>\r\n<div class=\"wrap\">Having trouble finding a stunning natural stone or surface that\u2019s still in your price range? Let our experts show you how.\r\n<\/div><\/div>\r\n\r\n<div class=\"col-xs-12 col-sm-4\">\r\n<img src=\"\/wp-content\/uploads\/serve-photo-contractors.png\"\/>\r\n<h4>Home Builder & Contractors<\/h4>\r\n<div class=\"wrap\">Staying on budget and on time is easy with access to the best selection of natural stone and tile in the region.\r\n<\/div><\/div>\r\n<\/div>\r\n<div class=\"row\">\r\n<div class=\"col-xs-12 contactlead\"><a href=\"#contact\">Whatever your project demands, we can help. Contact us today.<\/a><\/div>\r\n<\/div>\n\n            \n        <\/div>\n    <\/div>\n\t<\/section>\n            \n\t\r\n\r\n    \n    <section class=\"cs-section background-yellow Ignyte_subNavItem\" id='testimonials' >\n     <div class=\"subnavtitle\" style=\"display:none;\">Testimonials<\/div>\t<div class=\"container\">\n\t\t<h2><\/h2>\n        <h3>HEAR WHAT OUR LOYAL\r\nCLIENTS HAVE TO SAY<\/h3>        <div class=\"row\">\n        \t\t\t\t\t<li class=\"slide-img slide-content-wrap \" >\n                \t<div class=\"container  \">\n                        <div class=\"row\">\n                               <div class=\"col-sm-12\">\n                               \t\t<div class=\"cap-content\">\n                                                                                     <div class=\"caption\">\n                                                &#8220;I have used Formation when remodeling several of my own homes and they always help me find just what I am looking for. The people are friendly and have a lot of knowledge of all the different products they offer.&#8221;                                            <\/div>\n                                                                                                                            <h4>Elizabeth Benton \u2013 Homeowner, The Vintage Country Club<\/h4>\n                                                                      \t\t<\/div>\n                              <\/div>\n                        <\/div><!-- row -->\n                      <\/div><!-- container -->\n\t\t\t\t<\/li>\n\n                \n\t\t\t\t\t\t<\/ul>\n\t\t<\/div><!-- .flexslider -->\n\t\t<script type=\"text\/javascript\">\n            jQuery(window).load(function(){\n              jQuery('.slidetestomonial').flexslider({\n                animation: \"slide\",\n                useCSS: false,\n                controlNav: true,\n                directionNav: false,\n\t\t\t\tcontrolsContainer: '.dir-nav',\n                start: function(slider){\n                  jQuery('body').removeClass('loading');\n                }\n              });\n            });\n        <\/script>\n    <\/div><!-- .slider -->\n    <\/div>\n    \n\n\n            \n        <\/div>\n    <\/div>\n\t<\/section>\n            \n\t\r\n\r\n    \n    <section class=\"cs-section white Ignyte_subNavItem\" id='contact' >\n     <div class=\"subnavtitle\" style=\"display:none;\">Contact Us<\/div>\t<div class=\"container\">\n\t\t<h2>Contact Us<\/h2>\n        <h3>READY TO START YOUR NEXT PROJECT?\r\nCONTACT US TODAY<\/h3>        <div class=\"row\">\n        \t<div class=\"contact-section\">\r\n<div class=\"col-md-6 col-sm-12\">\r\n<h6>PALM DESERT SHOWROOM<\/h6>\r\n<img src=\"http:\/\/www.formationstone.com\/wp-content\/uploads\/formationslab-location-v2.jpg\" alt=\"\" width=\"800\" height=\"533\" class=\"alignnone size-full wp-image-335\">\r\n<div class=\"showroom-address\">74-824 42nd Avenue<br \/>\r\nPalm Desert, CA 92260<\/div>\r\n<div class=\"showroom-phone\"><a href=\"tel:760-773-1001\" class=\"number\">(760) 773-1001<\/a><\/div>\r\n<\/div>\r\n\r\n<div class=\"col-md-6 col-sm-12\">\r\n<h6>NAPA SHOWROOM<\/h6>\r\n<img src=\"\/wp-content\/uploads\/formation-stone-napa.jpg\" alt=\"\" width=\"1024\" height=\"683\" class=\"alignnone wp-image-1300 size-large\">\r\n<div class=\"showroom-address\">807 Soscol Avenue<br \/>\r\nNapa, CA 94559<\/div>\r\n<div class=\"showroom-phone\"><a href=\"tel:707-406-4004\" class=\"number\">(707) 406-4004<\/a><\/div>\r\n<\/div>\r\n\r\n<div class=\"col-md-6 col-sm-12\">\r\n<h6>LOS ALAMITOS SHOWROOM<\/h6>\r\n<img src=\"\/wp-content\/uploads\/Formation_Home_Los_Alamitos.jpg\" alt=\"\" width=\"1024\" height=\"683\" class=\"alignnone wp-image-1300 size-large\">\r\n<div class=\"showroom-address\">10801 Bloomfield Street<br \/>\r\nLos Alamitos, CA 90720<\/div>\r\n<div class=\"showroom-phone\"><a href=\"tel:562-294-5000\" class=\"number\">(562) 294-5000<\/a><\/div>\r\n<\/div>\r\n\r\n<div class=\"col-md-6 col-sm-12\">\r\n<h6>BEND SHOWROOM<\/h6>\r\n<img src=\"http:\/\/www.formationstone.com\/wp-content\/uploads\/Formation-Stone-2-1024x683.jpg\" alt=\"\" width=\"1024\" height=\"683\" class=\"alignnone wp-image-1300 size-large\">\r\n<div class=\"showroom-address\">50 SE Scott St #8<br \/>\r\nBend, OR 97702<\/div>\r\n<div class=\"showroom-phone\"><a href=\"tel:541-706-9990\" class=\"number\">(541) 706-9990<\/a><\/div>\r\n<\/div>\r\n\r\n<\/div>\r\n\r\n<div style=\"clear: both;\"><\/div>\r\n\r\n<div>&nbsp;<\/div>\r\n<div>&nbsp;<\/div>\r\n\r\n<div class=\"col-sm-12\">\r\n<h5>Contact Us Online Now<\/h5>\r\n<div role=\"form\" class=\"wpcf7\" id=\"wpcf7-f1298-o1\" lang=\"en-US\" dir=\"ltr\">\n<div class=\"screen-reader-response\"><p role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"> <ul><\/ul><\/div>\n<form action=\"\/wp-json\/wp\/v2\/pages\/6#wpcf7-f1298-o1\" method=\"post\" class=\"wpcf7-form init\" novalidate=\"novalidate\" data-status=\"init\">\n<div style=\"display: none;\">\n<input type=\"hidden\" name=\"_wpcf7\" value=\"1298\" \/>\n<input type=\"hidden\" name=\"_wpcf7_version\" value=\"5.5.4\" \/>\n<input type=\"hidden\" name=\"_wpcf7_locale\" value=\"en_US\" \/>\n<input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f1298-o1\" \/>\n<input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" \/>\n<input type=\"hidden\" name=\"_wpcf7_posted_data_hash\" value=\"\" \/>\n<input type=\"hidden\" name=\"_wpcf7_recaptcha_response\" value=\"\" \/>\n<\/div>\n<div class=\"row\">\n<div class=\"col-md-12 col-sm-12\"><label> Your Name (required)<br \/>\n    <span class=\"wpcf7-form-control-wrap your-name\"><input type=\"text\" name=\"your-name\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" aria-required=\"true\" aria-invalid=\"false\" \/><\/span> <\/label><\/div>\n<div class=\"col-md-12 col-sm-12\"><label> Your Email (required)<br \/>\n    <span class=\"wpcf7-form-control-wrap your-email\"><input type=\"email\" name=\"your-email\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email\" aria-required=\"true\" aria-invalid=\"false\" \/><\/span> <\/label><\/div>\n<div class=\"col-md-12 col-sm-12\"><label> Subject<br \/>\n    <span class=\"wpcf7-form-control-wrap your-subject\"><input type=\"text\" name=\"your-subject\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text\" aria-invalid=\"false\" \/><\/span> <\/label><\/div>\n<div class=\"col-md-12 col-sm-12\"><label> Your Message<br \/>\n    <span class=\"wpcf7-form-control-wrap your-message\"><textarea name=\"your-message\" cols=\"40\" rows=\"10\" class=\"wpcf7-form-control wpcf7-textarea\" aria-invalid=\"false\"><\/textarea><\/span> <\/label><\/div>\n<div class=\"col-md-12 col-sm-12\"><input type=\"submit\" value=\"Send\" class=\"wpcf7-form-control has-spinner wpcf7-submit\" \/><\/div>\n<\/div>\n<div class=\"wpcf7-response-output\" aria-hidden=\"true\"><\/div><\/form><\/div>\r\n<\/div>\n\n            \n        <\/div>\n    <\/div>\n\t<\/section>\n            \n\t\r\n\r\n\t<script type=\"text\/javascript\" src=\"https:\/\/maps.googleapis.com\/maps\/api\/js?key=AIzaSyC25Gl-XOjeFy9GN85TBGFvzqTvC6aRi-M&sensor=false\"><\/script>\n        <script type=\"text\/javascript\">\n            google.maps.event.addDomListener(window, 'load', init);\n            function init() {\n                var geometry = {\n                    lat: 33.7432449,\n                    lng: -116.3590524                };\n\t\t\t\tvar geometry2 = {\n                    lat: 37.7101712,\n                    lng: -122.1874111                };\n\t\t\t\tvar geometry3 = {\n                    lat: 44.0508968,\n                    lng: -121.3067427                };\n\t\t\t\tvar geometry4 = {\n                    lat: 33.8069317,\n                    lng: -118.0661034                };\t\n\t\t\t\t\n\t\t\t\t                var mapOptions = {\n                    zoom: 5,\n                    center: new google.maps.LatLng(37.32781115, -119.4798274),\n\t\t\t\t\tscrollwheel: false,\n                    styles: [{\"featureType\":\"administrative\",\"elementType\":\"labels.text.fill\",\"stylers\":[{\"color\":\"#444444\"}]},{\"featureType\":\"landscape\",\"elementType\":\"all\",\"stylers\":[{\"color\":\"#f2f2f2\"}]},{\"featureType\":\"poi\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"poi\",\"elementType\":\"labels.text\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"road\",\"elementType\":\"all\",\"stylers\":[{\"saturation\":-100},{\"lightness\":45}]},{\"featureType\":\"road.highway\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"simplified\"}]},{\"featureType\":\"road.arterial\",\"elementType\":\"labels.icon\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"transit\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"water\",\"elementType\":\"all\",\"stylers\":[{\"color\":\"#dbdbdb\"},{\"visibility\":\"on\"}]}]\n                };\n\t\t\t\t\n\t\t\t\tfunction infoCallback(infowindow, marker) {\n\t\t\t\t\treturn function() {\n\t\t\t\t\t\tinfowindow.open(map, marker);\n\t\t\t\t\t};\n\t\t\t\t}\n\t\t\t\t\n                var mapElement = document.getElementById('map');\n                var map = new google.maps.Map(mapElement, mapOptions);\n                var iconBase = '\/wp-content\/uploads\/marker.png';\n                var marker = new google.maps.Marker({\n                    position: geometry,\n                    map: map,\n                    icon: iconBase\n                });\n\t\t\t\tvar marker2 = new google.maps.Marker({\n                    position: geometry2,\n                    map: map,\n                    icon: iconBase\n                });\n\t\t\t\tvar marker3 = new google.maps.Marker({\n                    position: geometry3,\n                    map: map,\n                    icon: iconBase\n                });\n\t\t\t\tvar marker4 = new google.maps.Marker({\n                    position: geometry4,\n                    map: map,\n                    icon: iconBase\n                });\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\tvar content = '<div class=\"map-content\"><h4>FORMATION<\/h4>74-824 42nd Avenue<br>Palm Desert, CA 92260' + '<br><a href=\"https:\/\/www.google.com\/maps\/dir\/\/74-839+42nd+Ave,+Palm+Desert,+CA+92260\/@33.7432493,-116.3612411,17z\/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x80dafc254056a02b:0xcba701b5efeeeb7b!2m2!1d-116.3590524!2d33.7432449?hl=en-US\" target=\"_blank\">Get Directions<\/a>';\n\t\t\t\tvar infowindow = new google.maps.InfoWindow({maxWidth: 450, arrowSize:0,});\n\t\t\t\tinfowindow.setContent(content);\n\t\t\t\t\n\t\t\t\tvar content2 = '<div class=\"map-content\"><h4>FORMATION<\/h4>807 Soscol Avenue<br>Napa, CA 94559' + '<br><a href=\"https:\/\/www.google.com\/maps\/place\/807+Soscol+Ave,+Napa,+CA+94559,+USA\/@38.2992654,-122.2844293,17z\/data=!3m1!4b1!4m5!3m4!1s0x80850666081db381:0x34cf746798b56c8c!8m2!3d38.2992612!4d-122.2822406?shorturl=1\" target=\"_blank\">Get Directions<\/a>';\n\t\t\t\tvar infowindow2 = new google.maps.InfoWindow({maxWidth: 450, arrowSize:0,});\n\t\t\t\tinfowindow2.setContent(content2);\n\n\t\t\t\tvar content3 = '<div class=\"map-content\"><h4>FORMATION<\/h4>50 SE Scott St #8<br>Bend, OR 97702' + '<br><a href=\"https:\/\/www.google.com\/maps\/dir\/\/50+SE+Scott+St+%238,+Bend,+OR+97702\/@44.0508914,-121.3396592,13z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x54b8c63ab2dd4a59:0xc4bff56ad363fc09!2m2!1d-121.304554!2d44.0508968?hl=en-US\" target=\"_blank\">Get Directions<\/a>';\t\t\t\t\n\t\t\t\tvar infowindow3 = new google.maps.InfoWindow({maxWidth: 450, arrowSize:0,});\n\t\t\t\tinfowindow3.setContent(content3);\n\n\t\t\t\tvar content4 = '<div class=\"map-content\"><h4>FORMATION<\/h4>10801 Bloomfield Street<br>Los Alamitos, CA 90720' + '<br><a href=\"https:\/\/www.google.com\/maps\/place\/10801+Bloomfield+St,+Los+Alamitos,+CA+90720,+USA\/@33.8069361,-118.0661034,17z\/data=!3m1!4b1!4m5!3m4!1s0x80dd2e870c26aaab:0x829aa3b81a7a182!8m2!3d33.8069317!4d-118.0639147?shorturl=1\" target=\"_blank\">Get Directions<\/a>';\t\t\t\t\n\t\t\t\tvar infowindow4 = new google.maps.InfoWindow({maxWidth: 450, arrowSize:0,});\n\t\t\t\tinfowindow4.setContent(content4);\n\n\t\t\t\t\n\t\t\t\tgoogle.maps.event.addListener(marker, 'click', infoCallback(infowindow, marker));\n\t\t\t\tgoogle.maps.event.trigger( marker, 'click' );\n                marker.setMap(map);\n\t\t\t\t\n\t\t\t\tgoogle.maps.event.addListener(marker2, 'click', infoCallback(infowindow2, marker2));\n\t\t\t\tgoogle.maps.event.trigger( marker2, 'click' );\n                marker2.setMap(map);\n\t\t\t\t\n\t\t\t\tgoogle.maps.event.addListener(marker3, 'click', infoCallback(infowindow3, marker3));\n\t\t\t\tgoogle.maps.event.trigger( marker3, 'click' );\n                marker3.setMap(map);\n\n\t\t\t\tgoogle.maps.event.addListener(marker4, 'click', infoCallback(infowindow4, marker4));\n\t\t\t\tgoogle.maps.event.trigger( marker4, 'click' );\n                marker4.setMap(map);\n\t\t\t\t\n            }\n        <\/script>\n\t\t       \t\t<div id=\"map\"><\/div>\n        ","protected":false},"excerpt":{"rendered":"<p>THE GRIT OF A SLAB YARD, THE FINERIES OF A SHOWROOM<\/p>\n","protected":false},"author":1,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"front-page.php","meta":{"ngg_post_thumbnail":0},"_links":{"self":[{"href":"http:\/\/www.formationstone.com\/wp-json\/wp\/v2\/pages\/6"}],"collection":[{"href":"http:\/\/www.formationstone.com\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"http:\/\/www.formationstone.com\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"http:\/\/www.formationstone.com\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"http:\/\/www.formationstone.com\/wp-json\/wp\/v2\/comments?post=6"}],"version-history":[{"count":104,"href":"http:\/\/www.formationstone.com\/wp-json\/wp\/v2\/pages\/6\/revisions"}],"predecessor-version":[{"id":1328,"href":"http:\/\/www.formationstone.com\/wp-json\/wp\/v2\/pages\/6\/revisions\/1328"}],"wp:attachment":[{"href":"http:\/\/www.formationstone.com\/wp-json\/wp\/v2\/media?parent=6"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
